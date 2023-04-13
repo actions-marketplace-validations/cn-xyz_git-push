@@ -1,6 +1,6 @@
 name: 'Git Push Action'
 description: 'Git Push Action'
-author: 'admin <admin@china.cn>'
+author: 'admin <admin@china>'
 inputs: 
   GITHUB_EMAIL:
     description: 'git user email'
