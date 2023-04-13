@@ -1,4 +1,4 @@
-name: 'Push tool'
+name: 'Push Tool'
 description: 'Git Push Action'
 author: 'admin <admin@china.cn>'
 inputs: 
